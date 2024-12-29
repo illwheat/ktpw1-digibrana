@@ -67,7 +67,7 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 
 ### Přístupnost
 
-- Dostatečné** vyhodnocení přístupnosti** vhodným nástrojem
+- Dostatečné **vyhodnocení přístupnosti** vhodným nástrojem
 - **Přítomnost alt odkazů** u médií
 - Struktura navigace jako neseřazený seznam
 - **Dostatečný kontrast** barev pozadí a textu
