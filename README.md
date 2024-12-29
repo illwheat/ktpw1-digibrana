@@ -26,6 +26,8 @@ Projekt vznikl jako **studentská zápočtová práce** na předmět KIT-KTPW1 (
 
 ## Požadavky a cíle
 
+---
+
 ### Požadavky
 
 ---
