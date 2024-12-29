@@ -9,10 +9,9 @@
 3. [Struktura projektu](#struktura-projektu)
 4. [Instalace a spuštění](#instalace-a-spuštění)
 5. [Použití](#použití)
-6. [Možná vylepšení](#možná-vylepšení)
-7. [Přispění](#přispění)
-8. [Autoři](#autoři)
-9. [Licence](#licence) 
+6. [Přispění](#přispění)
+7. [Autoři](#autoři)
+8. [Licence](#licence) 
 
 ---
 
@@ -27,6 +26,8 @@ Projekt vznikl jako **studentská zápočtová práce** na předmět KIT-KTPW1 (
 
 ## Požadavky a cíle
 
+### Požadavky
+
 Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkrácené podobě jsou uvedeny zde:
 
 1. [Rozvržení stránky](#rozvržení-stránky)
@@ -36,7 +37,7 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 5. [Přístupnost](#přístupnost)
 6. [Ostatní podmínky](#ostatní-podmínky)
 
-### Rozvržení stránky
+#### Rozvržení stránky
 
 - **Přitažlivý** design, **konzistentní** struktura
 - V **zápatí** stránky jsou obsaženy: informace o **právech užívání, datum poslední aktualizace, kontaktní e-mail**
@@ -44,28 +45,28 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 - **Klíčové** a přitažlivé informace **nad ohybem** (bez nutnosti scrollování)
 - **Responzivní** návrh ideálně s použitím media queries, metaznačka viewport
 
-### Prezentace obsahu
+#### Prezentace obsahu
 
 - Dodržování **zásad** psaní pro web: nadpisy, odrážky, krátké odstavce
 - **Konzistence** fontů, velikostí, barev
 - **Smysluplnost**, **užitečnost**, aktuálnost a bezchybnost obsahu
 - **Konzistence** označení stavu **hypertextových odkazů**
 
-### Barvy a multimédia
+#### Barvy a multimédia
 
 - Maximálně **3 až 4 barvy** kromě neutrální barvy
 - Fotogalerie
 - **Optimalizace** grafiky pro web
 - **Účelnost** grafických prvků
 
-### Navigace, funkčnost
+#### Navigace, funkčnost
 
 - **Konzistence** pojmenování odkazů **navigace**
 - **Použitelnost a čitelnost nabídky** pro cílové publikum
 - **Správnost zobrazení** v nejnovější verze Google Chrome a na mobilních zařízeních
 - **Funkčnost** hypertextových **odkazů** a formulářů
 
-### Přístupnost
+#### Přístupnost
 
 - Dostatečné **vyhodnocení přístupnosti** vhodným nástrojem
 - **Přítomnost alt odkazů** u médií
@@ -73,7 +74,7 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 - **Dostatečný kontrast** barev pozadí a textu
 - Barva **není** jediným nositelem informace, u grafiky **alternativní textový ekvivalent**
 
-### Ostatní podmínky
+#### Ostatní podmínky
 
 - Zveřejnění projektu na **Internetu**
 - Minimální požadovaný rozsah **5 HTML stránek, 500 slov**
@@ -89,13 +90,15 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 
 ---
 
+### Cíle
+
+---
+
 ## Struktura projektu
 
 ## Instalace a spuštění
 
 ## Použití
-
-## Možná vylepšení
 
 ## Přispění
 
