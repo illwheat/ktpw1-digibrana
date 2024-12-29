@@ -87,10 +87,14 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 - Projekt je **originálním a výlučním dílem** odevzdávajícího studenta
 - **Použití JS knihoven** pro **doplňkové** funkce **je dovoleno**
 - **Použití frameworků** jako Bootstrap, Skeleton, Tailwind **není povoleno**
-
+ 
 ### Cíle
 
+Kromě cílů vycházejících z požadavků je **cílem** této webové stránky **informovat a vzdělávat** širokou veřejnost (primárně však skupiny ohrožené digitální propastí, vyloučením nebo náchylností k podvodu).
+
 ## Struktura projektu
+
+
 
 ## Instalace a spuštění
 
