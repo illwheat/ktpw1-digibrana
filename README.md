@@ -51,7 +51,7 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 - Smysluplnost, užitečnost, aktuálnost a bezchybnost obsahu
 - Konzistence označení stavu hypertextových odkazů
 
-### Barvy, grafika, multimédia
+### Barvy a multimédia
 
 - Maximálně 3 až 4 barvy kromě neutrální barvy
 - Fotogalerie
