@@ -26,8 +26,6 @@ Projekt vznikl jako **studentská zápočtová práce** na předmět KIT-KTPW1 (
 
 ## Požadavky a cíle
 
----
-
 ### Požadavky
 
 Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkrácené podobě jsou uvedeny zde:
@@ -90,11 +88,7 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 - **Použití JS knihoven** pro **doplňkové** funkce **je dovoleno**
 - **Použití frameworků** jako Bootstrap, Skeleton, Tailwind **není povoleno**
 
----
-
 ### Cíle
-
----
 
 ## Struktura projektu
 
