@@ -18,7 +18,7 @@
 
 ## O projektu
 
-Projekt vznikl jako studentská zápočtová práce na předmět KIT-KTPW1 (Technologie publikování na webu I). Jeho cílem je ukázat schopnost vytvořit jednoduchou responzivní webovou stránku za pomoci základních webových technologií (HTML, CSS, JavaScript).
+Projekt vznikl jako **studentská zápočtová práce** na předmět KIT-KTPW1 (Technologie publikování na webu I). Jeho cílem je ukázat schopnost vytvořit **jednoduchou responzivní webovou stránku** za pomoci **základních webových technologií** (HTML, CSS, JavaScript).
 
 - Projekt je zaměřen na **statické webové stránky** bez využití robustních frameworků typu Bootstrap či jiných podobných řešení.  
 - Hlavním cílem je prokázat schopnost vytvořit responzivní, funkční a přístupné stránky pouze pomocí **HTML** a **CSS**, s minimálním využitím JavaScriptu pro drobné interakce (např. formuláře, fotogalerie, apod.).  
@@ -38,25 +38,51 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 
 ### Rozvržení stránky
 
-- Přitažlivý design, konzistentní struktura
-- V zápatí stránky jsou obsaženy: informace o právech užívání, datum poslední aktualizace, kontaktní e-mail
-- Dobré použití základních principů designu: opakování, kontrast, zarovnání, rovnováha mezi textem, obrazovými prvky a prázdným místem na stránce
-- Klíčové a přitažlivé informace nad ohybem (bez nutnosti scrollování)
-- Responzivní návrh ideálně s použitím media queries, metaznačka viewport
+- **Přitažlivý** design, **konzistentní** struktura
+- V **zápatí** stránky jsou obsaženy: informace o **právech užívání, datum poslední aktualizace, kontaktní e-mail**
+- Dobré **použití základních principů designu**: opakování, kontrast, zarovnání, rovnováha mezi textem, obrazovými prvky a prázdným místem na stránce
+- **Klíčové** a přitažlivé informace **nad ohybem** (bez nutnosti scrollování)
+- **Responzivní** návrh ideálně s použitím media queries, metaznačka viewport
 
 ### Prezentace obsahu
 
-- Dodržování zásad psaní pro web: nadpisy, odrážky, krátké odstavce
-- Konzistence fontů, velikostí, barev
-- Smysluplnost, užitečnost, aktuálnost a bezchybnost obsahu
-- Konzistence označení stavu hypertextových odkazů
+- Dodržování **zásad** psaní pro web: nadpisy, odrážky, krátké odstavce
+- **Konzistence** fontů, velikostí, barev
+- **Smysluplnost**, **užitečnost**, aktuálnost a bezchybnost obsahu
+- **Konzistence** označení stavu **hypertextových odkazů**
 
 ### Barvy a multimédia
 
-- Maximálně 3 až 4 barvy kromě neutrální barvy
+- Maximálně **3 až 4 barvy** kromě neutrální barvy
 - Fotogalerie
-- Optimalizace grafiky pro web
-- Účelnost grafických prvků
+- **Optimalizace** grafiky pro web
+- **Účelnost** grafických prvků
 
 ### Navigace, funkčnost
 
+- **Konzistence** pojmenování odkazů **navigace**
+- **Použitelnost a čitelnost nabídky** pro cílové publikum
+- **Správnost zobrazení** v nejnovější verze Google Chrome a na mobilních zařízeních
+- **Funkčnost** hypertextových **odkazů** a formulářů
+
+### Přístupnost
+
+- Dostatečné** vyhodnocení přístupnosti** vhodným nástrojem
+- **Přítomnost alt odkazů** u médií
+- Struktura navigace jako neseřazený seznam
+- **Dostatečný kontrast** barev pozadí a textu
+- Barva **není** jediným nositelem informace, u grafiky **alternativní textový ekvivalent**
+
+### Ostatní podmínky
+
+- Zveřejnění projektu na **Internetu**
+- Minimální požadovaný rozsah **5 HTML stránek, 500 slov**
+- Přítomnost prvků jako **tabulka, formulář, fotogalerie, flexbox/grid**
+- Použití **strukturálních elementů** HTML5 v **maximální možné míře** (header, footer, nav, main, ...)
+- **Validní kód**
+- Dodržení **aktuálních doporučených postupů** HTML5 a CSS (např. organizace kódu)
+- V **patičce** je uvedeno, že se jedná o **studentský zápočtový projekt**
+- Projekt **není alternativní verzí existujícího webu**, **nekopíruje** již existující web, **neporušuje autorská práva**
+- Projekt je **originálním a výlučním dílem** odevzdávajícího studenta
+- **Použití JS knihoven** pro **doplňkové** funkce **je dovoleno**
+- **Použití frameworků** jako Bootstrap, Skeleton, Tailwind **není povoleno**
