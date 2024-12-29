@@ -86,3 +86,25 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 - Projekt je **originálním a výlučním dílem** odevzdávajícího studenta
 - **Použití JS knihoven** pro **doplňkové** funkce **je dovoleno**
 - **Použití frameworků** jako Bootstrap, Skeleton, Tailwind **není povoleno**
+
+---
+
+## Struktura projektu
+
+## Instalace a spuštění
+
+## Použití
+
+## Možná vylepšení
+
+## Přispění
+
+Tento projekt momentálně nepřijímá příspěvky.
+
+## Autoři
+
+Jediným a výlučným autorem tohoto projektu je Vít Kubát, student Univerzity Hradec Králové, studijního programu Aplikovaná informatika, specializace Softwarové inženýrství.
+
+## Licence
+
+Tento projekt je dostupný pod licencí GNU GPLv3. Více informací o licenci naleznete zde: https://www.gnu.org/licenses/gpl-3.0.html
