@@ -30,8 +30,6 @@ Projekt vznikl jako **studentská zápočtová práce** na předmět KIT-KTPW1 (
 
 ### Požadavky
 
----
-
 Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkrácené podobě jsou uvedeny zde:
 
 1. [Rozvržení stránky](#rozvržení-stránky)
