@@ -32,9 +32,9 @@ Požadavky projektu jsou uvedeny v systému Oliva (https://oliva.uhk.cz). Ve zkr
 1. [Rozvržení stránky](#rozvržení-stránky)
 2. [Prezentace obsahu](#prezentace-obsahu)
 3. [Barvy a multimédia](#barvy-a-multimédia)
-4. [Navigace a funkčnost](#navigace-a-funkcnost)
-5. [Přístupnost](#pristupnost)
-6. [Ostatní podmínky](#ostatni-podminky)
+4. [Navigace a funkčnost](#navigace-a-funkčnost)
+5. [Přístupnost](#přístupnost)
+6. [Ostatní podmínky](#ostatní-podmínky)
 
 ### Rozvržení stránky
 
